@@ -343,3 +343,10 @@ numpy_df = pd.DataFrame(data_numpy, columns=["ID", "Nombre", "Calificación"])
 
 st.write("### Datos desde NumPy")
 st.dataframe(numpy_df)
+
+st.markdown("---")
+st.markdown("""
+<div style="text-align: center; color: #666; font-size: 0.8rem;">
+    © 2025 CESDE      
+</div>
+""", unsafe_allow_html=True)
