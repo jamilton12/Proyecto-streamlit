@@ -184,7 +184,7 @@ st.write("### Datos desde CSV")
 st.dataframe(csv_df)
 """)
 
-csv_df = pd.read_csv("assets/1_M2_Actividad_1/dataCSV.csv")
+csv_df = pd.read_csv("static/datasets/1_M2_Actividad_1/dataCSV.csv")
 
 st.write("### Datos desde CSV")
 st.dataframe(csv_df)
@@ -202,7 +202,7 @@ st.write("### Datos desde Excel")
 st.dataframe(excel_df)
 """)
 
-excel_df = pd.read_excel("assets/1_M2_Actividad_1/dataExcel.xlsx", engine="openpyxl")
+excel_df = pd.read_excel("static/datasets/1_M2_Actividad_1/dataExcel.xlsx", engine="openpyxl")
 
 st.write("### Datos desde Excel")
 st.dataframe(excel_df)
@@ -220,7 +220,7 @@ st.write("### Datos de Usuarios desde JSON")
 st.dataframe(json_df)
 """)
 
-json_df = pd.read_json("assets/1_M2_Actividad_1/dataJSON.json")
+json_df = pd.read_json("static/datasets/1_M2_Actividad_1/dataJSON.json")
 
 st.write("### Datos de Usuarios desde JSON")
 st.dataframe(json_df)
