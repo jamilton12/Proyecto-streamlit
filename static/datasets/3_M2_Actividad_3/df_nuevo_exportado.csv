@@ -1,0 +1,51 @@
+id,nombre_completo,edad,region,municipio,ingreso_mensual,ocupacion,tipo_vivienda,fecha_nacimiento,acceso_internet
+1,Marcela Solano,60,Caribe,Yopal,1392162.0,Pensionado,Propia,1965-07-17,True
+2,Luis Galeano,17,Caribe,Leticia,4000993.0,Agricultor,Arrendada,2005-09-27,False
+3,Liliana Londoño,43,Andina,Buenaventura,9690024.0,Agricultor,Familiar,2001-08-02,True
+4,Robinson Carlos Quintero,49,Caribe,Cartagena,,Desempleado,Propia,1972-04-23,True
+5,Gustavo Carlos Espitia,53,Orinoquía,Medellín,,Obrero,Propia,1953-07-26,True
+6,Estella Liliana Rodríguez,32,Caribe,Tunja,,Emprendedor,Propia,1967-05-26,False
+7,Luis José Soto Hernández,34,Andina,Santa Marta,3541067.0,Ingeniero,Familiar,2004-09-30,True
+8,Milena Osorio,57,Andina,Manizales,5847714.0,Pensionado,Familiar,1980-01-09,True
+9,Fernando Jair Solano Herrera,74,Orinoquía,Quibdó,9525306.0,Desempleado,Propia,1986-04-13,False
+10,Alberto Ricardo Silva Montes,72,Caribe,Medellín,7232138.0,Agricultor,Arrendada,1952-09-12,True
+11,José Gonzalo Jaimes,37,Andina,Cartagena,8266774.0,Comerciante,Propia,1972-07-25,False
+12,Héctor Henao Soto,48,Andina,Santa Marta,1010637.0,Estudiante,Propia,1985-02-03,True
+13,Rafael Camilo Palacios Sanabria,47,Caribe,Quibdó,3248363.0,Emprendedor,Arrendada,1967-07-23,True
+14,Juliana García Reyes,64,Caribe,Barranquilla,2426523.0,Estudiante,Arrendada,1977-09-30,True
+15,Juan Quintero,62,Andina,Medellín,9377004.0,Médico,Familiar,1996-01-19,True
+16,Libardo Vanegas Giraldo,24,Caribe,Bogotá,991668.0,,Familiar,1992-06-08,False
+17,José William Serrano,47,Andina,Cali,8688454.0,,Arrendada,1964-02-25,True
+18,José Javier Torres,61,Caribe,Villavicencio,9494938.0,,Familiar,1976-07-09,True
+19,Yolanda Ángel,47,Andina,Leticia,10837968.0,Obrero,Arrendada,2000-08-22,True
+20,Luisa Jackeline Sánchez Montoya,62,Andina,Quibdó,8394374.0,Pensionado,Familiar,1983-09-05,True
+21,Germán Gómez Hernández,40,Orinoquía,Puerto Inírida,4576270.0,Agricultor,Familiar,1970-05-03,True
+22,María Pilar Duque Pedraza,34,Caribe,Puerto Inírida,6018559.0,Docente,Propia,2007-03-24,True
+23,José Garzón Palacios,29,Caribe,Quibdó,4080116.0,Obrero,Familiar,1977-02-18,True
+24,María Mayerly Rosero,51,Pacífica,Bogotá,2755783.0,Médico,Arrendada,1984-06-03,True
+25,Andrés Vélez Parra,47,Caribe,Manizales,11818795.0,Desempleado,Arrendada,2005-08-27,False
+26,Fernando Felipe Espinosa,31,Orinoquía,Cartagena,5888613.0,Emprendedor,Arrendada,1969-12-01,True
+27,Camilo José Acevedo,19,Andina,Puerto Inírida,10966967.0,Agricultor,Propia,1952-04-28,False
+28,Vanesa Guerrero Becerra,64,Caribe,Manizales,7427128.0,Estudiante,Arrendada,1956-11-15,True
+29,Rosa Moreno García,70,Pacífica,Villavicencio,2618380.0,Docente,Propia,1975-06-19,True
+30,Lizeth Giraldo,18,Pacífica,Barranquilla,9914130.0,Desempleado,Arrendada,1979-08-20,True
+31,Carlos Hoyos,17,Andina,Santa Marta,4465361.0,Agricultor,Familiar,1957-05-24,False
+32,Sergio Giraldo,35,Pacífica,Cartagena,7232257.0,Emprendedor,Familiar,1981-12-28,True
+33,Alba Quintero González,54,Caribe,Bogotá,7040307.0,Pensionado,Arrendada,1978-01-14,True
+34,Yenny Flórez Martínez,17,Andina,Medellín,9816236.0,Obrero,Arrendada,1982-05-28,False
+35,Lorena Rodríguez Cardona,35,Andina,Bogotá,9153072.0,Desempleado,Familiar,1969-03-23,True
+36,Jesús Johan Gómez Guzmán,62,Pacífica,Manizales,4889819.0,Agricultor,Propia,1971-11-27,False
+37,Carolina López Bonilla,71,Andina,Tunja,8410710.0,Pensionado,Propia,2006-10-18,False
+38,Liseth Carolina Ortiz Mora,63,Andina,Santa Marta,7728899.0,Estudiante,Familiar,1985-10-22,True
+39,Raquel Marcela Gómez Sierra,22,Pacífica,Barranquilla,10170691.0,Médico,Arrendada,1951-04-24,False
+40,Johana Lizeth Naranjo Rodríguez,56,Andina,Medellín,2762123.0,Emprendedor,Familiar,1980-02-06,True
+41,Julio García,50,Andina,Santa Marta,10157973.0,Médico,Arrendada,2004-10-23,False
+42,Andrés Jaime Hernández,75,Andina,Manizales,6576873.0,Docente,Arrendada,1986-01-12,False
+43,Ingrid Ramos Ariza,43,Andina,Barranquilla,5590155.0,Médico,Familiar,2007-01-07,False
+44,Carmen Roa,67,Orinoquía,Cali,5023731.0,Médico,Arrendada,1992-05-26,True
+45,Enrique René Villa Velandia,53,Andina,Santa Marta,11531782.0,Agricultor,Familiar,2004-04-21,True
+46,Verónica Mercado,48,Andina,Buenaventura,5798231.0,Emprendedor,Familiar,1950-03-14,False
+47,Javier Dario Barrios Mosquera,36,Andina,Tunja,11393294.0,Agricultor,Propia,1993-11-13,True
+48,Manuel Hernán Salazar Mosquera,69,Caribe,Puerto Inírida,9235686.0,Comerciante,Familiar,1963-03-26,True
+49,Javier Henry Fonseca Díaz,45,Pacífica,Bogotá,2879187.0,Médico,Propia,2003-07-02,True
+50,Marisol Rivera,42,Caribe,Manizales,7151737.0,Comerciante,Arrendada,2002-07-07,True
